@@ -1,1 +1,4 @@
-# Albany-Welch
+- Hi, I'm Albany
+- Undergraduate Computer Science Student
+- Experience in Python and Java
+- (This is incomplete... I'm getting there...)
