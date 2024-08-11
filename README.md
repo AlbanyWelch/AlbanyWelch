@@ -1,7 +1,7 @@
 # Hi, I'm Albany
-- 3rd Year Undergraduate Computer Science Student in Oxford
-- Interested in Physics, Musical Theory and Game Development
+- Computer Science Graduate from Oxford Brookes University
+- Interested in Physics, Musical Theory, Game and Software Development
 - Very experienced in Python and Java
 - Previous experience with Arduino, C, C#, C++, R, Rust, HTML
-- LinkedIn: [To be added]
+- LinkedIn: www.linkedin.com/in/albany-welch-07b4602b0
 - Currently a Code Sensei for Code Ninjas
